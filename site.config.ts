@@ -326,6 +326,8 @@ export default defineSiteConfig({
     },
   ],
   marca: { colorPrimario: "#7e22ce" },
+  // Plan Básico: Vercel Web Analytics (sin cookies). Activar también Analytics en el proyecto de Vercel.
+  analitica: { vercel: true },
   seo: {
     titulo: "Electricista 24 h en Torrent | Corrent Electricistas",
     descripcion:
