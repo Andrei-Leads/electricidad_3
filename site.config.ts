@@ -73,7 +73,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/servicio-averia.jpg",
-          alt: "Mano con linterna revisando un cuadro eléctrico con un diferencial bajado",
+          alt: "Mano con linterna revisando, sin luz, el cuadro eléctrico sobre la puerta de una cocina",
         },
       ],
       preguntas: [
@@ -102,7 +102,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/servicio-diferencial.jpg",
-          alt: "Detalle de un diferencial nuevo en un cuadro eléctrico",
+          alt: "Detalle de un diferencial nuevo recién montado, al lado del antiguo, amarillento por los años",
         },
       ],
       preguntas: [
@@ -125,7 +125,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/servicio-enchufe.jpg",
-          alt: "Manos cambiando un enchufe con un destornillador en una pared limpia",
+          alt: "Manos atornillando un enchufe nuevo en un dormitorio; el viejo, sobre un trapo en el suelo",
         },
       ],
       mensajeWhatsapp: "Hola, tengo un enchufe estropeado. Os mando una foto:",
@@ -181,12 +181,12 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/trabajo-cuadro.jpg",
-          alt: "Cuadro eléctrico nuevo con los automáticos alineados en una casa adosada",
+          alt: "Cuadro eléctrico nuevo con los automáticos alineados en el hueco bajo la escalera de una casa adosada",
         },
       ],
       antes: {
         src: "/ejemplo/trabajo-cuadro-antes.jpg",
-        alt: "El mismo cuadro antes: plásticos chamuscados, cables derretidos y hollín en la caja",
+        alt: "El mismo cuadro antes: plásticos chamuscados, cables derretidos y hollín subiendo por la pared hasta la escalera",
       },
       testimonio: {
         autor: "Juan Antonio R.",
@@ -217,7 +217,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/trabajo-diferencial.jpg",
-          alt: "Caja de registro abierta en un pasillo con un empalme nuevo y bien aislado",
+          alt: "Caja de registro abierta en un pasillo con empalmes nuevos, rodeada por una mancha de humedad",
         },
       ],
     },
@@ -299,7 +299,7 @@ export default defineSiteConfig({
     imagenes: [
       {
         src: "/ejemplo/empresa-furgoneta.jpg",
-        alt: "Furgoneta blanca sin rotular aparcada de noche bajo una farola en una calle de ciudad",
+        alt: "Furgoneta blanca sin rotular de noche bajo una farola, con las puertas traseras abiertas y la luz interior encendida",
       },
     ],
     equipo: [
