@@ -332,6 +332,6 @@ export default defineSiteConfig({
     titulo: "Electricista 24 h en Torrent | Corrent Electricistas",
     descripcion:
       "Electricistas 24 h en Torrent y l'Horta Sud: averías, diferenciales, enchufes y cuadros. Precios a la vista y presupuesto antes de empezar.",
-    url: "https://electricidad-3.vercel.app", // PROVISIONAL: poner la URL real de Vercel tras el primer despliegue
+    url: "https://electricidad-3.vercel.app",
   },
 });
