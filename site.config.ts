@@ -51,7 +51,7 @@ export default defineSiteConfig({
   imagenesHero: [
     {
       src: "/ejemplo/hero.jpg",
-      alt: "Electricista de espaldas con linterna frontal abriendo un cuadro eléctrico en un recibidor a media luz",
+      alt: "Electricista de espaldas, con chaqueta de trabajo gris oscura, comprobando con un destornillador comprobador el cuadro eléctrico abierto de un recibidor, junto a un perchero con una chaqueta granate",
     },
   ],
   servicios: [
